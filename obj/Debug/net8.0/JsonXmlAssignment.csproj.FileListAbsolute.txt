@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\JsonXmlAssignment\bin\Debug\net8.0\JsonXmlAssignment.exe
+C:\Users\HP\Desktop\JsonXmlAssignment\bin\Debug\net8.0\JsonXmlAssignment.deps.json
+C:\Users\HP\Desktop\JsonXmlAssignment\bin\Debug\net8.0\JsonXmlAssignment.runtimeconfig.json
+C:\Users\HP\Desktop\JsonXmlAssignment\bin\Debug\net8.0\JsonXmlAssignment.dll
+C:\Users\HP\Desktop\JsonXmlAssignment\bin\Debug\net8.0\JsonXmlAssignment.pdb
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.AssemblyInfo.cs
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.dll
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\refint\JsonXmlAssignment.dll
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.pdb
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.genruntimeconfig.cache
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\ref\JsonXmlAssignment.dll
