@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <Person>
+    <Name>John Doe</Name>
+    <Age>30</Age>
+    <Skills>C#, ASP.NET, SQL</Skills>
+  </Person>
+  <Person>
+    <Name>Stephen Owoamanam</Name>
+    <Age>128</Age>
+    <Skills>React, GOlang, Rust</Skills>
+  </Person>
+</People>

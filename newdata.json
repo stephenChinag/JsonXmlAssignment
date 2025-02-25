@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "John Doe",
+    "Age": 30,
+    "Skills": [
+      "C#",
+      "ASP.NET",
+      "SQL"
+    ]
+  },
+  {
+    "Name": "Stephen Owoamanam",
+    "Age": 128,
+    "Skills": [
+      "React",
+      "GOlang",
+      "Rust"
+    ]
+  }
+]
