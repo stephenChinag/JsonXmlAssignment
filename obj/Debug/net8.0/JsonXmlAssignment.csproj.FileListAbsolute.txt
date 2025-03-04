@@ -13,3 +13,7 @@ C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.pdb
 C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.genruntimeconfig.cache
 C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\ref\JsonXmlAssignment.dll
 C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.sourcelink.json
+C:\Users\HP\Desktop\JsonXmlAssignment\bin\Debug\net8.0\MyLibrary.dll
+C:\Users\HP\Desktop\JsonXmlAssignment\bin\Debug\net8.0\MyLibrary.pdb
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlAssignment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\JsonXmlAssignment\obj\Debug\net8.0\JsonXmlA.E914C8CC.Up2Date

@@ -8,6 +8,6 @@
   <Person>
     <Name>Stephen Owoamanam</Name>
     <Age>128</Age>
-    <Skills>React, GOlang, Rust</Skills>
+    <Skills>React, Golang, Rust</Skills>
   </Person>
 </People>
